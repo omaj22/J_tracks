@@ -43,7 +43,7 @@ Register a New User: Go to /register, enter a username and password, and click R
 Login: After registration, log in with your credentials at /login.
 Dashboard: Access the real-time tracking dashboard (to be developed) after logging in.
 
-Link 
+Page
 https://starrygal222.wixsite.com/j_tracks 
 
 Contributing
