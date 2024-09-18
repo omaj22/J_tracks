@@ -33,3 +33,22 @@ Project Structure
   - src/: Contains the React application.
   - `App.js`: The main component that handles routing between different pages.
   - `components/`: Contains the React components like HomePage, Register, and Login.
+![unnamed](https://github.com/user-attachments/assets/41d76e79-06b9-4f84-b449-22773b73eed7)
+
+
+
+Usage
+
+Register a New User: Go to /register, enter a username and password, and click Register.
+Login: After registration, log in with your credentials at /login.
+Dashboard: Access the real-time tracking dashboard (to be developed) after logging in.
+
+Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contact
+For any inquiries or support, please contact Chioma Ezeuduji at ezeudujichioma@yahoo.com.
+
